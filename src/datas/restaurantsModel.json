@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "aka Restaurant",
+    "stateId": 3,
+    "img": "/images/abcRestaurant.jpg",
+    "food": [
+      {
+        "id": 1,
+        "name": "Masal Dosa",
+        "mealTypeId": 1,
+        "cuisine": "South Indian",
+        "price": 30
+      },
+      {
+        "id": 2,
+        "name": "Cake",
+        "mealTypeId": 4,
+        "cuisine": "Continental",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "New Restaurant",
+    "stateId": 1,
+    "img": "/images/rajaRestaurant.jpg",
+    "food": [
+      {
+        "id": 1,
+        "name": "Chicken Fried Rice",
+        "mealTypeId": 2,
+        "cuisine": "South Indian",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "name": "Paneer Butter Masala",
+        "mealTypeId": 3,
+        "cuisine": "North Indian",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chettinadu Restaurant",
+    "stateId": 1,
+    "img": "/images/rajaRestaurant.jpg",
+    "food": [
+      {
+        "id": 1,
+        "name": "Chicken Fried Rice",
+        "mealTypeId": 2,
+        "cuisine": "South Indian",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "name": "Paneer Butter Masala",
+        "mealTypeId": 3,
+        "cuisine": "North Indian",
+        "price": 60
+      }
+    ]
+  }
+]
